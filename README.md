@@ -2,7 +2,7 @@
 
 # Hi, I'm Tewodros Woretaw 👋
 
-### Software Engineer | Cybersecurity Specialist (Incident Response) | AI Enthusiast
+### Cyber security and software development |AI Enthusiast 
 
 I build clean, problem-solving web and mobile applications while ensuring strong digital defense, vulnerability management, and rapid incident handling.
 
@@ -49,6 +49,7 @@ I build clean, problem-solving web and mobile applications while ensuring strong
 *   **🔒 Secure P2P Money Transfer System:** A conceptual web demo showcasing a secure peer-to-peer transaction environment, utilizing end-to-end data validation and encryption to mimic secure digital banking.
 *   **🤖 Campus AI Report System:** An intelligent platform designed to modernize traditional university reporting processes. It aggregates, structures, and helps resolve campus issues efficiently by replacing slow, manual paperwork.
 *   **🛡️ Ethio Cyber Checker Bot:** A security-first automated bot built to protect users from digital threats. It evaluates and identifies malicious links or potentially dangerous applications, allowing users to scan items before clicking or installing.
+*   **  CURRENCY APP: ** A modern Android Fintech app built using Jetpack Compose, Clean Architecture, and Hilt. Features real-time tracking of Ethiopian bank exchange rates, global stock markets, cryptocurrency values, interactive Vico charts, and an intelligent Financial AI Advisor assistant 
 
 ---
 
